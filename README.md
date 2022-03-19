@@ -1,5 +1,5 @@
 ## 说明
 
-此仓库内容基于 https://github.com/sviptzk/Valine-Admin-Server 之上进行私人定制，如果你已使用，出现任何问题，于本人无关。若想使用请前往👉 https://github.com/sviptzk/Valine-Admin-Server
+基于 https://github.com/sviptzk/Valine-Admin-Server ，原版停止维护，个人存档修改
 
-## 【Lete乐特】：https://www.lete114.top
+## 【一粟燃星】：https://www.yangfana.top
